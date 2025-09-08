@@ -1,1 +1,0 @@
-# portfolio_akimov_e
