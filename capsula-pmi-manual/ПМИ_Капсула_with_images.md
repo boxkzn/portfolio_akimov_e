@@ -100,7 +100,8 @@ macOS</em></p>
 </blockquote></li>
 <li><blockquote>
 <p>Появилась всплывающая подсказка, указан адрес выбранного отеля и
-название ближайших станций метро<img src="media/image1.png"
+название ближайших станций метро<img
+src="/mnt/data/media/media/image1.png"
 style="width:4.02083in;height:2.08333in" /></p>
 </blockquote></li>
 </ol></th>
@@ -163,13 +164,14 @@ style="width:4.02083in;height:2.08333in" /></p>
 </blockquote></li>
 <li><blockquote>
 <p>Пользователь зарегистрирован, отображается личный кабинет<br />
-<img src="media/image8.png"
-style="width:2.33333in;height:3.69792in" /><img src="media/image9.png"
+<img src="/mnt/data/media/media/image8.png"
+style="width:2.33333in;height:3.69792in" /><img
+src="/mnt/data/media/media/image9.png"
 style="width:3.80729in;height:3.55208in" /></p>
 </blockquote></li>
 </ol>
 <blockquote>
-<p><img src="media/image9.png"
+<p><img src="/mnt/data/media/media/image9.png"
 style="width:3.71875in;height:1.64583in" /></p>
 </blockquote></th>
 </tr>
@@ -231,7 +233,7 @@ style="width:3.71875in;height:1.64583in" /></p>
 <p>Кнопка “Зарегистрироваться” не активна</p>
 </blockquote></li>
 </ol>
-<p><img src="media/image7.png"
+<p><img src="/mnt/data/media/media/image7.png"
 style="width:4.02083in;height:3.875in" /></p></th>
 </tr>
 <tr class="header">
@@ -277,7 +279,8 @@ style="width:4.02083in;height:3.875in" /></p></th>
 <p>Чекбокс выбран</p>
 </blockquote></li>
 <li><blockquote>
-<p>Кнопка “Зарегистрироваться” не активна<img src="media/image13.png"
+<p>Кнопка “Зарегистрироваться” не активна<img
+src="/mnt/data/media/media/image13.png"
 style="width:4.02083in;height:2.02604in" /></p>
 </blockquote></li>
 </ol></th>
@@ -338,7 +341,8 @@ style="width:4.02083in;height:2.02604in" /></p>
 <p>Чекбокс выбран</p>
 </blockquote></li>
 <li><blockquote>
-<p>Кнопка “Зарегистрироваться” не активна<img src="media/image12.png"
+<p>Кнопка “Зарегистрироваться” не активна<img
+src="/mnt/data/media/media/image12.png"
 style="width:4.02083in;height:2.44444in" /></p>
 </blockquote></li>
 </ol></th>
@@ -401,7 +405,7 @@ style="width:4.02083in;height:2.44444in" /></p>
 <p>Появляется сообщение “Пользователь уже существует”</p>
 </blockquote></li>
 </ol>
-<p><img src="media/image6.png"
+<p><img src="/mnt/data/media/media/image6.png"
 style="width:4.02083in;height:2.40278in" /></p></th>
 </tr>
 <tr class="odd">
@@ -491,9 +495,9 @@ style="width:4.02083in;height:2.40278in" /></p></th>
 личного кабинета</p>
 </blockquote></li>
 </ol>
-<p><img src="media/image15.png"
+<p><img src="/mnt/data/media/media/image15.png"
 style="width:4.02083in;height:2.33333in" /></p>
-<p><img src="media/image5.png"
+<p><img src="/mnt/data/media/media/image5.png"
 style="width:4.02083in;height:1.52778in" /></p></th>
 </tr>
 <tr class="odd">
@@ -562,9 +566,9 @@ style="width:4.02083in;height:1.52778in" /></p></th>
 <p>Бронирование выполнено успешно</p>
 </blockquote></li>
 </ol>
-<p><img src="media/image11.png"
+<p><img src="/mnt/data/media/media/image11.png"
 style="width:4.02083in;height:2.56944in" /></p>
-<p><img src="media/image10.png"
+<p><img src="/mnt/data/media/media/image10.png"
 style="width:4.02083in;height:1.63889in" /></p></th>
 </tr>
 <tr class="header">
@@ -591,7 +595,7 @@ style="width:4.02083in;height:1.63889in" /></p></th>
 <p>Переход к части страницы “История бронирования”</p>
 </blockquote></li>
 </ol>
-<p><img src="media/image14.png"
+<p><img src="/mnt/data/media/media/image14.png"
 style="width:4.02083in;height:2.25in" /></p></th>
 </tr>
 <tr class="header">
@@ -639,7 +643,7 @@ style="width:4.02083in;height:2.25in" /></p></th>
 <p>Изменения данных сохранились</p>
 </blockquote></li>
 </ol>
-<p><img src="media/image3.png"
+<p><img src="/mnt/data/media/media/image3.png"
 style="width:4.02083in;height:1.80556in" /></p></th>
 </tr>
 <tr class="odd">
@@ -678,7 +682,7 @@ style="width:4.02083in;height:1.80556in" /></p></th>
 <p>Бронирование отменяется</p>
 </blockquote></li>
 </ol>
-<p><img src="media/image2.png"
+<p><img src="/mnt/data/media/media/image2.png"
 style="width:4.02083in;height:2.01389in" /></p></th>
 </tr>
 </thead>
