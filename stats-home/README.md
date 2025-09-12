@@ -28,10 +28,11 @@
 
 ## Ключевые артефакты
 - [User Story Map (Miro)](https://miro.com/app/board/uXjVJZnYh7g=/?share_link_id=547217050871)  
-- DFD контекстного и логического уровня [stats-home/DFD&ERD (Stets Home v1).drawio]  
-- ER-модель, приведённая к 3НФ [stats-home/DFD&ERD (Stets Home v1).drawio]  
-- Словарь данных (атрибуты ERD) [stats-home/словарь данных атрибутов ERD (Stets Home v1).docx.pdf]  
-- Программа и методика испытаний (ПМИ) Stets Home v1 [stats-home/ПМИ Stets Home v1.docx.pdf]  
+- [DFD контекстного и логического уровня](stats-home/DFD&ERD%20(Stets%20Home%20v1).drawio)  
+- [ER-модель, приведённая к 3НФ](stats-home/DFD&ERD%20(Stets%20Home%20v1).drawio)  
+- [Словарь данных (атрибуты ERD)](stats-home/словарь%20данных%20атрибутов%20ERD%20(Stets%20Home%20v1).docx.pdf)  
+- [Программа и методика испытаний (ПМИ) Stets Home v1](stats-home/ПМИ%20Stets%20Home%20v1.docx.pdf)  
+
 - [Диаграмма структуры интерфейса (Figma)](https://www.figma.com/design/xBsuj9a22ViACQLQ36AshQ/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-Stets--Copy-?node-id=4-581&t=yyJjBDkfTeBwTtdR-1)
 
 ## Результат
