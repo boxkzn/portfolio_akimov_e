@@ -28,11 +28,11 @@
 
 ## Ключевые артефакты
 - [User Story Map (Miro)](https://miro.com/app/board/uXjVJZnYh7g=/?share_link_id=547217050871)  
-- [DFD контекстного и логического уровня](https://github.com/boxkzn/portfolio_akimov_e/blob/25d8516d33e9048d9e4a09ea7ef63cb3d405584e/stats-home/DFD%26ERD%20(Stets%20Home%20v1).drawio)  
-- [ER-модель, приведённая к 3НФ](https://github.com/boxkzn/portfolio_akimov_e/blob/25d8516d33e9048d9e4a09ea7ef63cb3d405584e/stats-home/DFD%26ERD%20(Stets%20Home%20v1).drawio)  
-- [Словарь данных (атрибуты ERD)](https://github.com/boxkzn/portfolio_akimov_e/blob/25d8516d33e9048d9e4a09ea7ef63cb3d405584e/stats-home/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B0%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82%D0%BE%D0%B2%20ERD%20(Stets%20Home%20v1).docx.pdf)  
-- [Программа и методика испытаний (ПМИ) Stets Home v1](https://github.com/boxkzn/portfolio_akimov_e/blob/7944b8401eb1b4096b4e1b9ad7cae063da6c573f/stats-home/%D0%9F%D0%9C%D0%98%20Stets%20Home%20v1.docx.pdf)  
-
+- [DFD контекстного уровня](https://github.com/boxkzn/portfolio_akimov_e/blob/87568d167b66e7d6f7dd500c105f03836ea42c78/stats-home/media/DFD%26ERD%20(Stets%20Home%20v1)-DFD_Context_Level.drawio.svg)
+- [DFD логического уровня](https://github.com/boxkzn/portfolio_akimov_e/blob/87568d167b66e7d6f7dd500c105f03836ea42c78/stats-home/media/DFD%26ERD%20(Stets%20Home%20v1)-DFD_Logical_Level.drawio.svg)   
+- [ER-модель, приведённая к 3НФ](https://github.com/boxkzn/portfolio_akimov_e/blob/87568d167b66e7d6f7dd500c105f03836ea42c78/stats-home/media/DFD%26ERD%20(Stets%20Home%20v1)-ERD%203%D0%9D%D0%A4.drawio.svg)  
+- [Словарь данных (атрибуты ERD)](https://github.com/boxkzn/portfolio_akimov_e/blob/87568d167b66e7d6f7dd500c105f03836ea42c78/stats-home/media/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B0%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82%D0%BE%D0%B2%20ERD%20(Stets%20Home%20v1).docx.pdf)  
+- [Программа и методика испытаний (ПМИ) Stets Home v1](https://github.com/boxkzn/portfolio_akimov_e/blob/87568d167b66e7d6f7dd500c105f03836ea42c78/stats-home/media/%D0%9F%D0%9C%D0%98%20Stets%20Home%20v1.docx.pdf)  
 - [Диаграмма структуры интерфейса (Figma)](https://www.figma.com/design/xBsuj9a22ViACQLQ36AshQ/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-Stets--Copy-?node-id=4-581&t=yyJjBDkfTeBwTtdR-1)
 
 ## Результат
