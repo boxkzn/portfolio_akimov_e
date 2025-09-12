@@ -1,5 +1,3 @@
----
-
 ## Portfolio
 
 | Название | Описание | Технологии и инструменты |
@@ -13,5 +11,3 @@
 | [Бэклог приложения клиники «Вита»](https://github.com/boxkzn/portfolio_akimov_e/blob/97b74fc2265090710a06085ceeaa76cdc94b166f/vita/README.md#бэклог-приложения) | Собрать и структурировать бэклог: интервью, user stories, карта историй, MVP, прототипы, DFD | User Story, Backlog, MVP, Miro, Confluence |
 | [UI приложения клиники «Вита»](https://github.com/boxkzn/portfolio_akimov_e/blob/97b74fc2265090710a06085ceeaa76cdc94b166f/vita/README.md#пользовательский-интерфейс) | Раскадровка мобильного приложения для пациентов для визуализации ключевых сценариев | Wireframe, UI, Figma, Miro |
 | [Моделирование процессов «Вита»](https://github.com/boxkzn/portfolio_akimov_e/blob/97b74fc2265090710a06085ceeaa76cdc94b166f/vita/README.md#моделирование-процессов) | AS-IS/TO-BE процесса «Приём у врача», UML State Machine записи на приём, автоматизация напоминаний | BPMN, UML, Process Modeling, Drawio, Confluence |
-
----
